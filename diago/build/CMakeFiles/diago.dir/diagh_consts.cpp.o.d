@@ -1,7 +1,7 @@
 CMakeFiles/diago.dir/diagh_consts.cpp.o: \
- /home/chenxub/projects/pydiago_dav_subspace/diago/diagh_consts.cpp \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/diagh_consts.cpp \
  /usr/include/stdc-predef.h \
- /home/chenxub/projects/pydiago_dav_subspace/diago/diagh.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/diagh.h \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -130,7 +130,7 @@ CMakeFiles/diago.dir/diagh_consts.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/11/bits/charconv.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_base/macros.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_base/macros.h \
  /usr/include/c++/11/complex /usr/include/c++/11/cmath \
  /usr/include/math.h /usr/include/x86_64-linux-gnu/bits/math-vector.h \
  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
@@ -176,4 +176,4 @@ CMakeFiles/diago.dir/diagh_consts.cpp.o: \
  /usr/include/c++/11/bits/ostream.tcc \
  /usr/include/c++/11/bits/istream.tcc \
  /usr/include/c++/11/bits/sstream.tcc \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_base/module_device/types.h
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_base/module_device/types.h

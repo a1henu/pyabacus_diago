@@ -1,8 +1,8 @@
 CMakeFiles/diago.dir/diago_dav_subspace.cpp.o: \
- /home/chenxub/projects/pydiago_dav_subspace/diago/diago_dav_subspace.cpp \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/diago_dav_subspace.cpp \
  /usr/include/stdc-predef.h \
- /home/chenxub/projects/pydiago_dav_subspace/diago/diago_dav_subspace.h \
- /home/chenxub/projects/pydiago_dav_subspace/diago/diagh.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/diago_dav_subspace.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/diagh.h \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -131,7 +131,7 @@ CMakeFiles/diago.dir/diago_dav_subspace.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/11/bits/charconv.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_base/macros.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_base/macros.h \
  /usr/include/c++/11/complex /usr/include/c++/11/cmath \
  /usr/include/math.h /usr/include/x86_64-linux-gnu/bits/math-vector.h \
  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
@@ -177,14 +177,14 @@ CMakeFiles/diago.dir/diago_dav_subspace.cpp.o: \
  /usr/include/c++/11/bits/ostream.tcc \
  /usr/include/c++/11/bits/istream.tcc \
  /usr/include/c++/11/bits/sstream.tcc \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_base/module_device/types.h \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_base/module_device/device.h \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_base/module_device/types.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_base/module_device/types.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_base/module_device/device.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_base/module_device/types.h \
  /usr/include/c++/11/fstream /usr/include/c++/11/bits/codecvt.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
  /usr/include/c++/11/bits/fstream.tcc /usr/include/c++/11/iostream \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_base/module_device/memory_op.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_base/module_device/memory_op.h \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_uninitialized.h \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
@@ -206,13 +206,13 @@ CMakeFiles/diago.dir/diago_dav_subspace.cpp.o: \
  /usr/include/c++/11/bits/stl_heap.h \
  /usr/include/c++/11/bits/stl_tempbuf.h \
  /usr/include/c++/11/bits/uniform_int_dist.h \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_hsolver/kernels/dngvd_op.h \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_hsolver/kernels/math_kernel_op.h \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_hsolver/kernels/../../module_base/macros.h \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_hsolver/kernels/../../module_base/blas_connector.h \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_hsolver/kernels/../../module_base/parallel_reduce.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_hsolver/kernels/dngvd_op.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_hsolver/kernels/math_kernel_op.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_hsolver/kernels/../../module_base/macros.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_hsolver/kernels/../../module_base/blas_connector.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_hsolver/kernels/../../module_base/parallel_reduce.h \
  /usr/include/c++/11/cassert /usr/include/assert.h \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_hsolver/kernels/../../module_base/module_device/types.h \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_hsolver/kernels/../../module_base/module_device/memory_op.h \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_hsolver/kernels/../../module_base/lapack_con.h \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_hsolver/kernels/math_kernel_op.h
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_hsolver/kernels/../../module_base/module_device/types.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_hsolver/kernels/../../module_base/module_device/memory_op.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_hsolver/kernels/../../module_base/lapack_con.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_hsolver/kernels/math_kernel_op.h

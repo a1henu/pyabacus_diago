@@ -1,8 +1,8 @@
 CMakeFiles/diago.dir/module_base/module_device/memory_op.cpp.o: \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_base/module_device/memory_op.cpp \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_base/module_device/memory_op.cpp \
  /usr/include/stdc-predef.h \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_base/module_device/memory_op.h \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_base/module_device/types.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_base/module_device/memory_op.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_base/module_device/types.h \
  /usr/include/c++/11/complex \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -178,7 +178,7 @@ CMakeFiles/diago.dir/module_base/module_device/memory_op.cpp.o: \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_base/module_device/../tool_threading.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_base/module_device/../tool_threading.h \
  /usr/include/c++/11/functional /usr/include/c++/11/tuple \
  /usr/include/c++/11/utility /usr/include/c++/11/bits/stl_relops.h \
  /usr/include/c++/11/array /usr/include/c++/11/bits/uses_allocator.h \

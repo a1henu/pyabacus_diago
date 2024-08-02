@@ -1,7 +1,7 @@
 CMakeFiles/diago.dir/module_base/parallel_reduce.cpp.o: \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_base/parallel_reduce.cpp \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_base/parallel_reduce.cpp \
  /usr/include/stdc-predef.h \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_base/parallel_reduce.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_base/parallel_reduce.h \
  /usr/include/c++/11/complex \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -174,4 +174,4 @@ CMakeFiles/diago.dir/module_base/parallel_reduce.cpp.o: \
  /usr/include/c++/11/bits/istream.tcc \
  /usr/include/c++/11/bits/sstream.tcc /usr/include/c++/11/cassert \
  /usr/include/assert.h \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_base/parallel_global.h
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_base/parallel_global.h

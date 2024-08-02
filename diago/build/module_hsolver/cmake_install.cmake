@@ -1,4 +1,4 @@
-# Install script for directory: /home/chenxub/projects/pydiago_dav_subspace/diago/module_hsolver
+# Install script for directory: /mnt/d/PKU/projects/pyabacus_diago/diago/module_hsolver
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

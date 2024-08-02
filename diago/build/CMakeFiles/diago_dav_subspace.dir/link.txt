@@ -1,1 +1,1 @@
-/usr/bin/c++ -fPIC -g -shared  -o diago_dav_subspace.cpython-311-x86_64-linux-gnu.so CMakeFiles/diago_dav_subspace.dir/bindings.cpp.o  -Wl,-rpath,/home/chenxub/projects/pydiago_dav_subspace/diago/build libdiago.so 
+/usr/bin/c++ -fPIC -g -shared  -o diago_dav_subspace.cpython-311-x86_64-linux-gnu.so CMakeFiles/diago_dav_subspace.dir/bindings.cpp.o  -Wl,-rpath,/mnt/d/PKU/projects/pyabacus_diago/diago/build libdiago.so 

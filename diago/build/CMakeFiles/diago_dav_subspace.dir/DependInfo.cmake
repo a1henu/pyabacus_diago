@@ -8,12 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/chenxub/projects/pydiago_dav_subspace/diago/bindings.cpp" "CMakeFiles/diago_dav_subspace.dir/bindings.cpp.o" "gcc" "CMakeFiles/diago_dav_subspace.dir/bindings.cpp.o.d"
+  "/mnt/d/PKU/projects/pyabacus_diago/diago/bindings.cpp" "CMakeFiles/diago_dav_subspace.dir/bindings.cpp.o" "gcc" "CMakeFiles/diago_dav_subspace.dir/bindings.cpp.o.d"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/chenxub/projects/pydiago_dav_subspace/diago/build/CMakeFiles/diago.dir/DependInfo.cmake"
+  "/mnt/d/PKU/projects/pyabacus_diago/diago/build/CMakeFiles/diago.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

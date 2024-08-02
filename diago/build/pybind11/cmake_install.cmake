@@ -1,4 +1,4 @@
-# Install script for directory: /home/chenxub/projects/pydiago_dav_subspace/diago/pybind11
+# Install script for directory: /mnt/d/PKU/projects/pyabacus_diago/diago/pybind11
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

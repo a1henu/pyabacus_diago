@@ -1,8 +1,8 @@
 CMakeFiles/diago.dir/module_base/module_device/device.cpp.o: \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_base/module_device/device.cpp \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_base/module_device/device.cpp \
  /usr/include/stdc-predef.h \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_base/module_device/device.h \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_base/module_device/types.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_base/module_device/device.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_base/module_device/types.h \
  /usr/include/c++/11/fstream /usr/include/c++/11/istream \
  /usr/include/c++/11/ios /usr/include/c++/11/iosfwd \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -176,5 +176,5 @@ CMakeFiles/diago.dir/module_base/module_device/device.cpp.o: \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
  /usr/include/c++/11/tr1/riemann_zeta.tcc /usr/include/c++/11/sstream \
  /usr/include/c++/11/bits/sstream.tcc /usr/include/c++/11/iostream \
- /home/chenxub/projects/pydiago_dav_subspace/diago/module_base/module_device/../macros.h \
+ /mnt/d/PKU/projects/pyabacus_diago/diago/module_base/module_device/../macros.h \
  /usr/include/c++/11/cstring /usr/include/string.h /usr/include/strings.h

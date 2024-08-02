@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = -Ddiago_dav_subspace_EXPORTS
 
-CXX_INCLUDES = -isystem /home/chenxub/projects/pydiago_dav_subspace/diago/pybind11/include -isystem /root/anaconda3/envs/pyabacus/include/python3.11
+CXX_INCLUDES = -isystem /mnt/d/PKU/projects/pyabacus_diago/diago/pybind11/include -isystem /root/anaconda3/include/python3.11
 
 CXX_FLAGS = -g -fPIC -fvisibility=hidden
 

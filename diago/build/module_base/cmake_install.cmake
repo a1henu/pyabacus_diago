@@ -1,4 +1,4 @@
-# Install script for directory: /home/chenxub/projects/pydiago_dav_subspace/diago/module_base
+# Install script for directory: /mnt/d/PKU/projects/pyabacus_diago/diago/module_base
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,7 +44,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/chenxub/projects/pydiago_dav_subspace/diago/build/module_base/module_device/cmake_install.cmake")
+  include("/mnt/d/PKU/projects/pyabacus_diago/diago/build/module_base/module_device/cmake_install.cmake")
 
 endif()
 
