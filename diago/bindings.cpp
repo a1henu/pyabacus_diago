@@ -46,15 +46,31 @@ PYBIND11_MODULE(diago_dav_subspace, m) {
         .def_readonly("nproc", &hsolver::diag_comm_info::nproc);
 
     py::class_<Matrix_DiagDav>(m, "Matrix_DiagDav")
-        .def(py::init<const std::vector<std::complex<double>>,
-                      const std::vector<double>,
-                      const int, 
-                      const int, 
-                      const int,
-                      const double, 
-                      const int, 
-                      const bool,
-                      const hsolver::diag_comm_info>())
+        .def(py::init(
+            [] (const py::array_t<std::complex<double>> h_mat,
+                const py::array_t<double> pre_condition,
+                int nband_in,
+                int nbasis_in,
+                int dav_ndim_in,
+                double diag_thr_in,
+                int diag_nmax_in,
+                bool need_subspace_in,
+                const hsolver::diag_comm_info& diag_comm_in)
+            {
+                std::vector<std::complex<double>> h_mat_vec(h_mat.size());
+                std::vector<double> pre_condition_vec(pre_condition.size());
+                
+                for (size_t i = 0; i < h_mat.size(); i++) {
+                    h_mat_vec[i] = h_mat.at(i);
+                }
+
+                for (size_t i = 0; i < pre_condition.size(); i++) {
+                    pre_condition_vec[i] = pre_condition.at(i);
+                }
+
+                return Matrix_DiagDav(h_mat_vec, pre_condition_vec, nband_in, nbasis_in, dav_ndim_in, diag_thr_in, diag_nmax_in, need_subspace_in, diag_comm_in);
+            }
+        ))
         .def("diag", &Matrix_DiagDav::diag)
         .def("get_eigenvalue", &Matrix_DiagDav::get_eigenvalue);
 }
